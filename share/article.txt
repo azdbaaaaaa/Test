@@ -7,4 +7,5 @@
 5.iOS UI自动化测试与代码覆盖率	http://www.cnblogs.com/hushuai-ios/p/5281932.html
 6.Facebook如何优化它的iOS应用启动时间	http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=401856887&idx=1&sn=8d8517fc7f85b1aa4fc4d552fb5f499f&scene=2&srcid=02186mLP8dwxyHeaGM0hIItS#rd
 
+7.JAVA垃圾回收机制	http://www.wxtlife.com/2016/04/25/java-jvm-gc/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
