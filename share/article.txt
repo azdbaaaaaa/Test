@@ -1,2 +1,10 @@
 
 1.android启动时间	http://www.zhihu.com/question/35487841/answer/63011462?from=timeline&isappinstalled=1
+2.Android性能优化典范 	http://hukai.me/android-performance-patterns/?from=timeline&isappinstalled=0
+3.iOS 应用性能测试的相关方法、工具及技巧	http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652154806&idx=2&sn=d95e613b6703a865f2f65516551cdfa1&scene=2&srcid=0517bB7dKfyGzics8LWNd6uA#rd
+4.微信读书 iOS 性能优化总结	http://wereadteam.github.io/2016/05/03/WeRead-Performance/?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+5.iOS UI自动化测试与代码覆盖率	http://www.cnblogs.com/hushuai-ios/p/5281932.html
+6.Facebook如何优化它的iOS应用启动时间	http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=401856887&idx=1&sn=8d8517fc7f85b1aa4fc4d552fb5f499f&scene=2&srcid=02186mLP8dwxyHeaGM0hIItS#rd
+
+
