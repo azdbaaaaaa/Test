@@ -1,4 +1,4 @@
-
+﻿0.Android终端专项宝典及资源	https://github.com/mobileperfman/BookResource
 1.android启动时间	http://www.zhihu.com/question/35487841/answer/63011462?from=timeline&isappinstalled=1
 2.Android性能优化典范 	http://hukai.me/android-performance-patterns/?from=timeline&isappinstalled=0
 3.iOS 应用性能测试的相关方法、工具及技巧	http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652154806&idx=2&sn=d95e613b6703a865f2f65516551cdfa1&scene=2&srcid=0517bB7dKfyGzics8LWNd6uA#rd
@@ -9,3 +9,12 @@
 
 7.JAVA垃圾回收机制	http://www.wxtlife.com/2016/04/25/java-jvm-gc/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
+8.为什么说DOM操作很慢	https://leozdgao.me/why-dom-slow/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+9.怎么获取首屏时间呢？	http://www.alloyteam.com/2016/01/points-about-resource-loading/?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+10.H5 Crash 研究	http://www.barretlee.com/blog/2016/05/30/h5-crash-research/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io&from=timeline&isappinstalled=0
+
+11.H5 缓存机制浅析 移动端 Web 加载性能优化	http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=402077566&idx=1&sn=def3337205c3aec5e0fde2476ee03397&scene=2&srcid=1210x1PxYwrigXNUblWLB3a2#rd
+
+12.15年双11手淘前端技术巡演 - H5性能最佳实践	https://github.com/amfe/article/issues/21?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
